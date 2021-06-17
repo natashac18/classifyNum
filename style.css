@@ -1,0 +1,18 @@
+.container1{
+    color:blue;
+    text-align: center;
+    font-family: 'Lucida Sans';
+}
+
+button{
+    border-radius: 5px;
+}
+
+#Answer{
+    margin-top: 50px;
+    color: rgb(28, 150, 48);
+    border: 5px dotted red;
+    padding: 10px;
+    font-size: 30px;
+    font-weight: bold;
+}
