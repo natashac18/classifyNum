@@ -5,8 +5,10 @@ function classifyNum(){
 
 
     if (test===0){
-        document.getElementById("Answer").innerHTML= "The number " + num + " is EVEN!"
-    } else {
-        document.getElementById("Answer").innerHTML= "The number " + num + " is ODD!"
-    }  
+        document.getElementById("Answer").innerHTML= "The number " + num + " is EVEN!";
+    } else if (test>0 && test<num){
+        document.getElementById("Answer").innerHTML= "The number " + num + " is ODD!";
+    } else{
+        document.getElementById("Answer").innerHTML= "Invalid. Make sure the entry is a numerical value";
+    } 
 }
