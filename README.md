@@ -3,7 +3,7 @@
 
 The purpose of this project is to exercise the use of functions in JavaScript as well as to further familiarize myself with the use of GitHub. I created a function that, upon inputting a number, will determine whether that number is odd or even, and notify the user of the result on the webpage.  
 
-![Screenshot](/relative/path/to/Capture.png?raw=true "Optional Title")
+![Screenshot](https://github.com/natashac18/classifyNum/blob/main/Capture.PNG?raw=true)
 
 ## Built With
 
