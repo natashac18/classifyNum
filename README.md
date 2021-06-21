@@ -6,7 +6,6 @@ The purpose of this project is to exercise the use of functions in JavaScript. I
 ## Built With
 
 - Html
-- Css
 - JavaScript
 
 ## Author
